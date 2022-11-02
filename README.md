@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @danielefranzot
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript
 
 
 <!---
